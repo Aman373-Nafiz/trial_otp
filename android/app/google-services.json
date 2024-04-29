@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206431804311",
+    "project_id": "trial-otp-23ae3",
+    "storage_bucket": "trial-otp-23ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206431804311:android:c62750273badbe9f9982d2",
+        "android_client_info": {
+          "package_name": "com.example.trial_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrFE6Zn-eMmXoBwXUSxC9S9uzYaYKG4ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
